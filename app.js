@@ -1,10 +1,7 @@
 function toDoList() {
     return {
         newTodo: "",
-        todos: [{
-            todo: "ssss",
-            completed: false
-        }],
+        todos: [],
         addToDo() {
 
 
